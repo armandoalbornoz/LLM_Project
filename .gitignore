@@ -1,3 +1,11 @@
 env/
 __pycache__/
 *.pyc
+.idea/
+.ipynb_checkpoints
+./training/gpt2/
+/training/gpt2/
+/training/model.pth
+/training/model_and_optimizer.pth
+/training/model_and_optimizer.pth
+/training/model.pth
