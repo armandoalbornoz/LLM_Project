@@ -3,9 +3,12 @@ __pycache__/
 *.pyc
 .idea/
 .ipynb_checkpoints
-./training/gpt2/
 /training/gpt2/
 /training/model.pth
 /training/model_and_optimizer.pth
-/training/model_and_optimizer.pth
-/training/model.pth
+Classification_fine-tuning/gpt2/
+Classification_fine-tuning/*.pth
+Classification_fine-tuning/*.zip
+Classification_fine-tuning/*.csv
+
+
