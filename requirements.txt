@@ -1,1 +1,4 @@
 ipykernel
+tiktoken
+torch
+torchvision
