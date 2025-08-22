@@ -12,5 +12,7 @@ Classification_fine-tuning/*.zip
 Classification_fine-tuning/*.csv
 fine-tune_instructions/gpt2
 fine-tune_instructions/gpt2-medium355M-sft.pth
+artifacts/model/model_and_optimizer.pth
+gpt2/
 
 
